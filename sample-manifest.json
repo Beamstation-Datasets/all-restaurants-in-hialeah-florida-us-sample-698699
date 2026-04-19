@@ -1,12 +1,12 @@
 {
-  "export_job_id": "82ad8e6a-c1c9-47d2-99cd-aa76369059cd",
+  "export_job_id": "0f12fbc6-5f39-43d4-aabb-754962d40fc0",
   "id_short": 698699,
-  "published_at": "2026-04-14T19:14:28Z",
+  "published_at": "2026-04-19T19:10:48Z",
   "repo_name": "all-restaurants-in-hialeah-florida-us-sample-698699",
   "sample_asset_name": "beamstation_698699_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/698699/beamstation_698699_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 62,
-  "sample_sha256": "592e0bc4edef7fa5dc874f8a3b57cd5abfddab0a21037f3275935e6c1756624b",
-  "sample_size_bytes": 221530,
-  "total_records": 629
+  "sample_records": 60,
+  "sample_sha256": "6644f0c40605346b6e7aa26aac0159876bb3b56402fe27a727fdb6ee697bec00",
+  "sample_size_bytes": 222779,
+  "total_records": 600
 }
