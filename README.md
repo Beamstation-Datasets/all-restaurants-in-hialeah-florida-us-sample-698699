@@ -1,6 +1,6 @@
 # All Restaurants in Hialeah, Florida, US
 
-> Free BeamStation sample export with 62 rows and masked direct-contact fields.
+> Free BeamStation sample export with 60 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `698699` |
 | Location | Hialeah |
 | Category | Restaurants |
-| Full dataset size | 629 records |
-| Free sample size | 62 records (9.86%) |
-| Last export | 2026-04-09T12:32:16.672353+00:00 |
+| Full dataset size | 600 records |
+| Free sample size | 60 records (10.0%) |
+| Last export | 2026-04-16T12:35:38.074373+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hialeah-florida-us-sample-698699/releases/download/sample-latest/beamstation_698699_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
